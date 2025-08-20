@@ -23,7 +23,4 @@ Language: Python 3
 
 Libraries:
 
-pandas → for handling tabular data
-
-
-sqlite3  → for database storage
+MySql → for database storage
